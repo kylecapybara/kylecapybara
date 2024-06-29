@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm a second semester chemical engineering freshman at the university of delaware! This is my github for school work and school projects. He/him pronouns
+I'm a second semester chemical engineering freshman at the university of delaware! This is my github for school work and school projects. He/him pronouns.
 
 This semester I'll put together a handful of projects for Data Science I and post them here. I'll also be doing work with the Hernandez-Pagan lab group and using python to process and visualize data. 
 
-Relevant Math / CS Coursework: MATH 219, CISC 106, MATH 349, MATH 315
+Relevant Math/CS Coursework: MATH 219, CISC 106, MATH 349, MATH 315
 
 
 <!--
