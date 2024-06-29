@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a second semester chemical engineering freshman at the university of delaware! This is my github for school work and school projects. My pronouns are he/him.
+I'm a second semester chemical engineering freshman at the university of delaware! This is my github for school work and school projects. He/him pronouns
 
 This semester I'll put together a handful of projects for Data Science I and post them here. I'll also be doing work with the Hernandez-Pagan lab group and using python to process and visualize data. 
 
