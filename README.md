@@ -1,7 +1,9 @@
-### Hi there 👋
-I'm a second semester chemical engineering freshman at the university of delaware! This is my github for school work and school projects. He/him pronouns.
+### Hi 
+I'm Kyle (he/him), a third semester chemical engineering freshman at the university of delaware and intern/co-op in research and development at DuPont.
 
-This semester I'll put together a handful of projects for Data Science I and post them here. I'll also be doing work with the Hernandez-Pagan lab group and using python to process and visualize data. 
+This is my github for school work and school projects that I feel compelled to put on github. I'm interested in data science in general (very very cool stuff), but more specifically i'm interested in 1-D signal processing and working with images. I've been able to learn a decent amount about 1-D signal processing through developing tools to analyze analytical instrument signals during my internship. At the same time I've also been developing image analysis tools to use to characterize resin at DuPont. I also had the chance to dip my toes in the nlp water with my harry potter project, but that was pretty surface level. 
+
+There are some of my MATH219 data science projects on here, but off of here I also do a lot of work in jupyter/python for schoolwork and work work 
 
 Relevant Math/CS Coursework: MATH 219, CISC 106, MATH 349, MATH 315
 
