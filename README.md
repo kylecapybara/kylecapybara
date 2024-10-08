@@ -1,5 +1,5 @@
 ### Hi 
-I'm Kyle (he/him), a third semester chemical engineering freshman at the university of delaware and intern/co-op in research and development at DuPont.
+I'm Kyle (he/him), a third semester chemical engineer at the university of delaware and intern/co-op in research and development at DuPont.
 
 This is my github for school work and school projects that I feel compelled to put on github. I'm interested in data science in general (very very cool stuff), but more specifically i'm interested in 1-D signal processing and working with images. I've been able to learn a decent amount about 1-D signal processing through developing tools to analyze analytical instrument signals during my internship. At the same time I've also been developing image analysis tools to use to characterize resin at DuPont. I also had the chance to dip my toes in the nlp water with my harry potter project, but that was pretty surface level. 
 
